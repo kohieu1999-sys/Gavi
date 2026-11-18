@@ -1,0 +1,11 @@
+{
+  "keys": [
+    {
+      "key": "REPLACE_WITH_YOUR_REAL_KEY",
+      "active": true,
+      "expires_at": "2027-12-31T16:59:59Z",
+      "device_limit": 1,
+      "devices": []
+    }
+  ]
+}
